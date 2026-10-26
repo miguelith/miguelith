@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hey, I'm Miguel
 
-<!--
-**miguelith/miguelith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at Silliman University, learning backend development and cybersecurity.
 
-Here are some ideas to get you started:
+I'm working on understanding the code I write and building secure software, with AI as a tool rather than a crutch.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning through **Boot.dev** and **TryHackMe**.
+
+### Projects
+
+- [Asteroids](https://github.com/miguelith/asteroids) — An arcade game built with Python and Pygame.
+
+### Elsewhere
+
+- [LinkedIn](https://linkedin.com/in/miguelith)
