@@ -13,3 +13,5 @@ Currently learning through **Boot.dev** and **TryHackMe**.
 ### Elsewhere
 
 - [LinkedIn](https://linkedin.com/in/miguelith)
+- [Boot.dev](https://www.boot.dev/u/miguelith)
+- [TryHackMe](https://tryhackme.com/p/miguelith)
