@@ -8,6 +8,7 @@ Currently learning through **Boot.dev** and **TryHackMe**.
 
 ### Projects
 
+- [BookBot](https://github.com/miguelith/bookbot) - A book character and word counter built with Python.
 - [Asteroids](https://github.com/miguelith/asteroids) — An arcade game built with Python and Pygame.
 
 ### Elsewhere
