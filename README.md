@@ -1,8 +1,8 @@
 # Hey, I'm Miguel
 
-Computer Science student at Silliman University, learning backend development and cybersecurity.
+Computer Science student at Silliman University focused on backend development, with an interest in CTF challenges through TryHackMe.
 
-I'm working on understanding the code I write and building secure software, with AI as a tool rather than a crutch.
+I'm working on understanding the code I write and building secure software, with AI as a copilot rather than an autopilot.
 
 Currently learning through **Boot.dev** and **TryHackMe**.
 
