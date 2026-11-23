@@ -8,7 +8,6 @@ Currently learning through **Boot.dev** and **TryHackMe**.
 
 ### Projects
 
-- [WPE Journal](https://github.com/miguelith/WPE-Journal) - My very first completed hand-written static site.
 - [BookBot](https://github.com/miguelith/bookbot) - A book character and word counter built with Python.
 - [Asteroids](https://github.com/miguelith/asteroids) - An arcade game built with Python and Pygame.
 - [AI Agent](https://github.com/miguelith/ai-agent) - A command-line AI agent built with Python, OpenRouter and the OpenAI SDK as part of Boot.dev.
